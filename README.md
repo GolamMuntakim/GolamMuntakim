@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Golam Muntakim</h1>
 <h3 align="center">A passionate web developer</h3>
 
+<p>Description: I am Muntakim , Currently i am working on web development and learning programming. I want to become a very good full stack developer .</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=golammuntakim&label=Profile%20views&color=0e75b6&style=flat" alt="golammuntakim" /> </p>
 
 - 🌱 I’m currently learning **next js**
