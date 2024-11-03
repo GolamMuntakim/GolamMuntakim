@@ -29,7 +29,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/YF8pWGiJn3akjHyxMBrdi2rTt2PfYyC8zjHnQtni-8s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtcHJvZHVjdGlv/bi5ucG1qcy5jb20v/MjU1YTExOGY1NmY1/MzQ2Yjk3ZTU2MzI1/YTEyMTdhMTYuc3Zn" alt="tailwind" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/YF8pWGiJn3akjHyxMBrdi2rTt2PfYyC8zjHnQtni-8s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtcHJvZHVjdGlv/bi5ucG1qcy5jb20v/MjU1YTExOGY1NmY1/MzQ2Yjk3ZTU2MzI1/YTEyMTdhMTYuc3Zn" alt="tailwind" width="40" height="40"/></a> 
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=golammuntakim&show_icons=true&locale=en&layout=compact" alt="golammuntakim" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=golammuntakim&show_icons=true&locale=en" alt="golammuntakim" /></p>
